@@ -1,0 +1,16 @@
+# add label to PR for any changes made to these folders. Represents current and subfolders /**/*
+Batch:
+  - Microsoft.Azure.Cosmos/src/Batch
+ChangeFeedProcessor:
+  - Microsoft.Azure.Cosmos/src/ChangeFeedProcessor
+Query:
+  - Microsoft.Azure.Cosmos/src/Query/**/*
+Query:
+  - Microsoft.Azure.Cosmos/src/CosmosElements/**/*
+Query:
+  - Microsoft.Azure.Cosmos/src/Json
+Query:
+LINQ:
+  - Microsoft.Azure.Cosmos/src/Linq
+PublicSurfaceChange:
+  - Microsoft.Azure.Cosmos/tests/Microsoft.Azure.Cosmos.Tests/DotNetSDKAPI.json
