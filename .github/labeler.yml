@@ -7,7 +7,6 @@ Query:
   - Microsoft.Azure.Cosmos/src/Query/**/*
   - Microsoft.Azure.Cosmos/src/CosmosElements/**/*
   - Microsoft.Azure.Cosmos/src/Json
-  - Microsoft.Azure.Cosmos/src/Linq
 LINQ:
   - Microsoft.Azure.Cosmos/src/Linq
 PublicSurfaceChange:
