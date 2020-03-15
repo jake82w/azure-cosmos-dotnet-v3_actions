@@ -5,11 +5,9 @@ ChangeFeedProcessor:
   - Microsoft.Azure.Cosmos/src/ChangeFeedProcessor
 Query:
   - Microsoft.Azure.Cosmos/src/Query/**/*
-Query:
   - Microsoft.Azure.Cosmos/src/CosmosElements/**/*
-Query:
   - Microsoft.Azure.Cosmos/src/Json
-Query:
+  - Microsoft.Azure.Cosmos/src/Linq
 LINQ:
   - Microsoft.Azure.Cosmos/src/Linq
 PublicSurfaceChange:
